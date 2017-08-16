@@ -769,3 +769,4 @@ PRODUCT_PACKAGES += \
     imssettings \
     qcnvitems \
     qcrilhook \
+    V4A
