@@ -762,6 +762,7 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     CNEService \
     QtiTetherService \
+    Turbo \
     com.qualcomm.location \
     qcrilmsgtunnel \
     colorservice \
